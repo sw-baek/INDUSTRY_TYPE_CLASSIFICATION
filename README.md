@@ -1,0 +1,2 @@
+# INDUSTRY_TYPE_CLASSIFICATION
+종목별 산업 분류를 위한 DART 공시정보 매출비중 CRAWLING
